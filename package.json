@@ -1,0 +1,29 @@
+{
+  "name": "propine_blockchain_engineer-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filzahamjad/Propine_Blockchain_Engineer-.git"
+  },
+  "author": "Filzah Amjad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filzahamjad/Propine_Blockchain_Engineer-/issues"
+  },
+  "homepage": "https://github.com/filzahamjad/Propine_Blockchain_Engineer-#readme",
+  "dependencies": {
+    "commander": "^9.4.0",
+    "cryptocompare": "^1.0.0",
+    "csv": "^6.2.0",
+    "csv-parser": "^3.0.0",
+    "csvtojson": "^2.0.10",
+    "https": "^1.0.0",
+    "inquirer": "^9.0.2",
+    "node-fetch": "^2.6.7"
+  }
+}
